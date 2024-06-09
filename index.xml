@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nicolas Manini</title>
+    <link>https://nmanini.github.io/</link>
+    <description>Recent content on Nicolas Manini</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nmanini.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📍 How to find me</title>
+      <link>https://nmanini.github.io/contact-me/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nmanini.github.io/contact-me/</guid>
+      <description> Email: {fistname}.{lastname}@imdea.org 💻
+Mailing Address: 📬
+IMDEA Software Institute Campus Montegancedo s/n 28223 Pozuelo de Alarcon, Madrid Spain </description>
+    </item>
+    <item>
+      <title>🥸 Who?</title>
+      <link>https://nmanini.github.io/about/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nmanini.github.io/about/</guid>
+      <description>Hi 👋🏻 I am Nicolas Manini, a Computer Science PhD Student at the IMDEA Software Institute and Universidad Politécnica de Madrid. I am part of Pierre Ganty&amp;rsquo;s group.
+🧑🏻‍💻 In my research I focus on topics such as Automata Theory, Formal Verification and Abstract Interpretation.
+🔙 Background 🎓 Master&amp;rsquo;s Degree in Computer Science at the University of Pisa (2021),
+Thesis: &amp;ldquo;Deciding Program Properties via Complete Abstractions on Bounded Domains&amp;rdquo;, supervised by R.</description>
+    </item>
+    <item>
+      <title>🧑🏻‍💻 My Work</title>
+      <link>https://nmanini.github.io/my-work/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nmanini.github.io/my-work/</guid>
+      <description>📝 Papers: Computing Reachable Simulations
+P. Ganty, N. Manini, F. Ranzato. [arXiv] Deciding Program Properties via Complete Abstractions on Bounded Domains
+R. Bruni, R. Gori, N. Manini. SAS 2022. [PDF] 🖼️ Posters: Complete Abstraction on Bounded Domains
+My I[M]DEA Show Your Work Day 2023. [PDF] Online Simulation Reduction
+My I[M]DEA Show Your Work Day 2022. [PDF] </description>
+    </item>
+  </channel>
+</rss>
