@@ -4,7 +4,7 @@
     <title>Nicolas Manini</title>
     <link>https://nmanini.github.io/</link>
     <description>Recent content on Nicolas Manini</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nmanini.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,30 +13,61 @@
       <link>https://nmanini.github.io/contact-me/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://nmanini.github.io/contact-me/</guid>
-      <description> Email: {fistname}.{lastname}@imdea.org 💻
-Mailing Address: 📬
-IMDEA Software Institute Campus Montegancedo s/n 28223 Pozuelo de Alarcon, Madrid Spain </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;code&gt;{fistname}.{lastname}@imdea.org&lt;/code&gt; 💻&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mailing Address&lt;/strong&gt;: 📬&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;IMDEA Software Institute
+Campus Montegancedo s/n
+28223 Pozuelo de Alarcon, Madrid
+Spain
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>🥸 Who?</title>
       <link>https://nmanini.github.io/about/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://nmanini.github.io/about/</guid>
-      <description>Hi 👋🏻 I am Nicolas Manini, a Computer Science PhD Student at the IMDEA Software Institute and Universidad Politécnica de Madrid. I am part of Pierre Ganty&amp;rsquo;s group.
-🧑🏻‍💻 In my research I focus on topics such as Automata Theory, Formal Verification and Abstract Interpretation.
-🔙 Background 🎓 Master&amp;rsquo;s Degree in Computer Science at the University of Pisa (2021),
-Thesis: &amp;ldquo;Deciding Program Properties via Complete Abstractions on Bounded Domains&amp;rdquo;, supervised by R.</description>
+      <description>&lt;p&gt;Hi 👋🏻 I am &lt;strong&gt;Nicolas Manini&lt;/strong&gt;, a Computer Science PhD Student at the &lt;a href=&#34;https://software.imdea.org/index.html&#34;&gt;&lt;strong&gt;IMDEA Software Institute&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.upm.es&#34;&gt;&lt;strong&gt;Universidad Politécnica de Madrid&lt;/strong&gt;&lt;/a&gt;.
+I am part of &lt;a href=&#34;https://software.imdea.org/~pierreganty/&#34;&gt;Pierre Ganty&lt;/a&gt;&amp;rsquo;s group.&lt;br&gt;
+🧑🏻‍💻 In my research I focus on topics such as &lt;em&gt;Automata Theory&lt;/em&gt;, &lt;em&gt;Formal Verification&lt;/em&gt; and &lt;em&gt;Abstract Interpretation&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-background&#34;&gt;🔙 Background&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 Master&amp;rsquo;s Degree in Computer Science at the &lt;a href=&#34;https://www.unipi.it&#34;&gt;University of Pisa&lt;/a&gt; (2021),&lt;br&gt;
+Thesis: &lt;a href=&#34;https://etd.adm.unipi.it/t/etd-06042021-215435/&#34;&gt;&lt;em&gt;&amp;ldquo;Deciding Program Properties via Complete Abstractions on Bounded Domains&amp;rdquo;&lt;/em&gt;&lt;/a&gt;, supervised by R. Bruni and R. Gori.&lt;/li&gt;
+&lt;li&gt;🎓 Bachelor&amp;rsquo;s Degree in Computer Science at the &lt;a href=&#34;https://www.unipi.it&#34;&gt;University of Pisa&lt;/a&gt; (2018),&lt;br&gt;
+Thesis: &lt;em&gt;&amp;ldquo;Approximate logic synthesis of Boolean functions&amp;rdquo;&lt;/em&gt;, supervised by A. Bernasconi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-experience&#34;&gt;👨🏻‍🏫 Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Student Counselor&lt;/strong&gt; for the &lt;strong&gt;&amp;ldquo;Programming and Algorithms&amp;rdquo;&lt;/strong&gt; course,
+(&lt;a href=&#34;https://www.unipi.it&#34;&gt;University of Pisa&lt;/a&gt;, Oct 2020 - Feb 2021).
+Held supplementary meetings lectures on topics related to theoretical aspects of algorithms, complexity and data structures.&lt;/p&gt;</description>
     </item>
     <item>
       <title>🧑🏻‍💻 My Work</title>
       <link>https://nmanini.github.io/my-work/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://nmanini.github.io/my-work/</guid>
-      <description>📝 Papers: Computing Reachable Simulations
-P. Ganty, N. Manini, F. Ranzato. [arXiv] Deciding Program Properties via Complete Abstractions on Bounded Domains
-R. Bruni, R. Gori, N. Manini. SAS 2022. [PDF] 🖼️ Posters: Complete Abstraction on Bounded Domains
-My I[M]DEA Show Your Work Day 2023. [PDF] Online Simulation Reduction
-My I[M]DEA Show Your Work Day 2022. [PDF] </description>
+      <description>&lt;h2 id=&#34;-papers&#34;&gt;📝 Papers:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/978-3-031-72621-7_3&#34;&gt;&lt;em&gt;Computing Reachable Simulations on Transition Systems&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. RP 2024. &lt;a href=&#34;https://arxiv.org/abs/2204.11804&#34;&gt;[arXiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/978-3-031-22308-2_9&#34;&gt;&lt;em&gt;Deciding Program Properties via Complete Abstractions on Bounded Domains&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+R. Bruni, R. Gori, &lt;strong&gt;N. Manini&lt;/strong&gt;. SAS 2022. &lt;a href=&#34;https://nmanini.github.io/papers/sas22-bounded.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-posters&#34;&gt;🖼️ Posters:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Complete Abstraction on Bounded Domains&lt;/em&gt;&lt;br&gt;
+My I[M]DEA Show Your Work Day 2023. &lt;a href=&#34;https://nmanini.github.io/posters/poster2023-bounded.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Online Simulation Reduction&lt;/em&gt;&lt;br&gt;
+My I[M]DEA Show Your Work Day 2022. &lt;a href=&#34;https://nmanini.github.io/posters/poster2022-simulation.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
