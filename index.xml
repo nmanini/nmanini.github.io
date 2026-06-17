@@ -56,8 +56,10 @@ Held supplementary meetings lectures on topics related to theoretical aspects of
       <guid>https://nmanini.github.io/my-work/</guid>
       <description>&lt;h2 id=&#34;-papers&#34;&gt;📝 Papers:&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/978-3-032-26204-2_31&#34;&gt;&lt;em&gt;Reachability-guided Abstraction Refinement&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. FM 2026. &lt;a href=&#34;https://nmanini.github.io/papers/fm2026-reachabilityguided.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://doi.org/10.1145/3723172&#34;&gt;&lt;em&gt;The Reachable Simulation Problem&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
-P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. ACM ToCL.&lt;/li&gt;
+P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. ACM ToCL. &lt;a href=&#34;https://nmanini.github.io/papers/tocl25-reachablesimulation.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/978-3-031-72621-7_3&#34;&gt;&lt;em&gt;Computing Reachable Simulations on Transition Systems&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
 P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. RP 2024. &lt;a href=&#34;https://nmanini.github.io/papers/rp24-reachablesimulations.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2204.11804&#34;&gt;[arXiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/978-3-031-22308-2_9&#34;&gt;&lt;em&gt;Deciding Program Properties via Complete Abstractions on Bounded Domains&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
