@@ -4,7 +4,7 @@
     <title>Nicolas Manini</title>
     <link>https://nmanini.github.io/</link>
     <description>Recent content on Nicolas Manini</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nmanini.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +15,7 @@
       <guid>https://nmanini.github.io/contact-me/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;code&gt;{fistname}.{lastname}@imdea.org&lt;/code&gt; 💻&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;code&gt;{fistname}.{lastname}@software.imdea.org&lt;/code&gt; 💻&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Mailing Address&lt;/strong&gt;: 📬&lt;/p&gt;
@@ -47,7 +47,20 @@ Thesis: &lt;em&gt;&amp;ldquo;Approximate logic synthesis of Boolean functions&am
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Student Counselor&lt;/strong&gt; for the &lt;strong&gt;&amp;ldquo;Programming and Algorithms&amp;rdquo;&lt;/strong&gt; course,
 (&lt;a href=&#34;https://www.unipi.it&#34;&gt;University of Pisa&lt;/a&gt;, Oct 2020 - Feb 2021).
-Held supplementary meetings lectures on topics related to theoretical aspects of algorithms, complexity and data structures.&lt;/p&gt;</description>
+Held supplementary meetings lectures on topics related to theoretical aspects of algorithms, complexity and data structures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; for the lab module of the &lt;strong&gt;&amp;ldquo;Algorithms and Laboratory&amp;rdquo;&lt;/strong&gt; course,
+(&lt;a href=&#34;https://www.unipi.it&#34;&gt;University of Pisa&lt;/a&gt;, Feb 2020 - Jul 2020).
+Topics: C programming and theoretical aspects related.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Student Counselor&lt;/strong&gt; for the &lt;strong&gt;&amp;ldquo;Algorithms and Laboratory&amp;rdquo;&lt;/strong&gt; course,
+(&lt;a href=&#34;https://www.unipi.it&#34;&gt;University of Pisa&lt;/a&gt;, Feb 2019 - Jul 2019).
+Organized supplementary lectures on C programming and theoretical aspects.
+Created a collection of theoretical and practical exercises, available on &lt;a href=&#34;https://github.com/DrDav/Algo1819&#34;&gt;GitHub&lt;/a&gt; (in italian).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🧑🏻‍💻 My Work</title>
@@ -56,10 +69,12 @@ Held supplementary meetings lectures on topics related to theoretical aspects of
       <guid>https://nmanini.github.io/my-work/</guid>
       <description>&lt;h2 id=&#34;-papers&#34;&gt;📝 Papers:&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1145/3845812&#34;&gt;&lt;em&gt;Compact Quantum Circuits for Autosymmetric and Dimension Reducible Functions&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+A. Bernasconi, V. Ciriani, G. Cuciniello, &lt;strong&gt;N. Manini&lt;/strong&gt;, A. Taheri Monfared. ACM JETC (2026). &lt;a href=&#34;https://nmanini.github.io/papers/jetc26-compactquantum.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/978-3-032-26204-2_31&#34;&gt;&lt;em&gt;Reachability-guided Abstraction Refinement&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
 P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. FM 2026. &lt;a href=&#34;https://nmanini.github.io/papers/fm2026-reachabilityguided.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://doi.org/10.1145/3723172&#34;&gt;&lt;em&gt;The Reachable Simulation Problem&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
-P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. ACM ToCL. &lt;a href=&#34;https://nmanini.github.io/papers/tocl25-reachablesimulation.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. ACM ToCL (2025). &lt;a href=&#34;https://nmanini.github.io/papers/tocl25-reachablesimulation.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/978-3-031-72621-7_3&#34;&gt;&lt;em&gt;Computing Reachable Simulations on Transition Systems&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
 P. Ganty, &lt;strong&gt;N. Manini&lt;/strong&gt;, F. Ranzato. RP 2024. &lt;a href=&#34;https://nmanini.github.io/papers/rp24-reachablesimulations.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2204.11804&#34;&gt;[arXiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/978-3-031-22308-2_9&#34;&gt;&lt;em&gt;Deciding Program Properties via Complete Abstractions on Bounded Domains&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
